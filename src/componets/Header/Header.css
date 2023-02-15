@@ -1,0 +1,15 @@
+.perfil_conteudo {
+    margin: 35px 0;
+    text-align: center;
+    color: var(--cor-terciaria);
+}
+
+.perfil_imagem {
+    display: block;
+    margin: auto;
+    width: 96px;
+    height: 96px;
+    background-image: url(../../assets/thuglogo1.png);
+    background-size: cover;
+    border-radius: 50%;  
+}
